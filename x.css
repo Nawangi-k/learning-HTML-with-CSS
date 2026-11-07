@@ -1,0 +1,9 @@
+h2{
+    color: blue; font-size: 24px; font-family: Arial, sans-serif; text-align: center;
+}
+table{
+    width: 100%; border-collapse: collapse; margin-top: 20px;
+}
+body{
+    background-color: #7fbdec; font-family: Arial, sans-serif; margin: 20px;
+}
